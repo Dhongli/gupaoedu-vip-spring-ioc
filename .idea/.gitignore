@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../../../:\GameDownload\2020期课程资料\02.架构师审美观\02.Spring手写实战\01.用30个类手写Spring V2.0版本之顶层设计IOC与DI\源码笔记\gupaoedu-vip-spring-2.0-ioc\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
